@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "zona-e-studentit-fe"
+    }
+  },
+  "defaultProject": "zona-e-studentit-fe",
+  "cli": {
+    "analytics": "1bfb7ddd-98a2-4538-89a2-a97e08e8b246"
+  }
 }
